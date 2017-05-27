@@ -11,6 +11,7 @@
     "react-fontawesome": "^1.6.1",
     "react-tap-event-plugin": "^2.0.1"
   },
+  "homepage": "https://abinash-kumar.github.io/react-app",
   "devDependencies": {
     "react-scripts": "1.0.0"
   },
@@ -20,7 +21,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
+
 }
 
 
-"homepage": "https://abinash-kumar.github.io/react-app"
